@@ -1,0 +1,14 @@
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\bin\Debug\net7.0\zad7.exe
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\bin\Debug\net7.0\zad7.deps.json
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\bin\Debug\net7.0\zad7.runtimeconfig.json
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\bin\Debug\net7.0\zad7.dll
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\bin\Debug\net7.0\zad7.pdb
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\obj\Debug\net7.0\zad7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\obj\Debug\net7.0\zad7.AssemblyInfoInputs.cache
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\obj\Debug\net7.0\zad7.AssemblyInfo.cs
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\obj\Debug\net7.0\zad7.csproj.CoreCompileInputs.cache
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\obj\Debug\net7.0\zad7.dll
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\obj\Debug\net7.0\refint\zad7.dll
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\obj\Debug\net7.0\zad7.pdb
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\obj\Debug\net7.0\zad7.genruntimeconfig.cache
+C:\Users\zydus\OneDrive\Pulpit\zad7\zad7Wzorce\zad7\obj\Debug\net7.0\ref\zad7.dll
